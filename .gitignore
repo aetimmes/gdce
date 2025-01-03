@@ -1,0 +1,6 @@
+curl-output.txt
+call-trace
+perf.data/**
+perf.data.old/**
+vmlinux
+sslkeylogfile.txt
